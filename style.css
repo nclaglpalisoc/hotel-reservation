@@ -1,0 +1,53 @@
+/* index.php */
+body{
+    background-color: rgb(131, 85, 24);
+}
+.bodyindex{
+    background-image: url(image/pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1500px;
+    margin: 0 auto;
+
+}
+.form-group{
+    margin-bottom:30px;
+}
+.logoo {
+    width: 100px;
+    margin-right: 50%;
+}
+.nav-link {
+    margin-left: 50px;
+}
+
+/* login.php */
+
+.bodylogin {
+        background-image: url(image/pic.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.container{
+    padding:100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+/* register.php */
+
+.bodyregis {
+    background-image: url(image/pic.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#footer {
+    display: grid;
+    text-align: center;
+    align-items:last baseline;
+    font-size: 20px;
+    top: 160px;
+    position: relative;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
